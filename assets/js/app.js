@@ -1,7 +1,7 @@
 $(document).ready(function() {
         $('#datetime').html(moment().format('hh:mm A'));
-        var apiKey = "#";
-        var displaycity = "#";
+        var apiKey = "#"; //MODIFY THIS
+        var displaycity = "#"; //MODIFY THIS - https://openweathermap.org/find
         var curtemp;
         var country_name;
         var weather_description;

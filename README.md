@@ -19,4 +19,5 @@ Wallpaper for wallpaper engine
 1. Register on https://openweathermap.org/ (API KEY)
 2. After downloading, simply edit the assets/js/app.js
 3. Modify the city and api key
-4. Open wallpaper engine and import the project.json
+5. Move the folder Wallpaper-Windows10 to the correct location - C:\Steam\steamapps\workshop\content\431960\
+6. Open wallpaper engine and select the Windows-10 background

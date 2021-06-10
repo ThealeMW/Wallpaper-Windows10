@@ -14,7 +14,7 @@ $(document).ready(function() {
           curtemp = data["main"]["temp"];
   
           $("#cityname").html(city_name + " &#40;" + country_name + "&#41; " + "<br>" + weather_description);
-          $(".temp").html(curtemp);
+          $(".temp").html(curtemp + " &#8451;");
   
         })
     })

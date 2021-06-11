@@ -6,7 +6,7 @@ For wallpaper engine
  
  # Preview
 
-![alt text](https://i.imgur.com/WcGPOD2.png)
+![alt text](https://cdn.thealemw.com/OD7sRq.png)
 
 # Features
 

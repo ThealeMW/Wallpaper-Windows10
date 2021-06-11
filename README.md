@@ -10,7 +10,7 @@ For wallpaper engine
 
 # Features
 
-1. Grabs your localtime and displays it with an interval of 40 seconds (AM/PM) using momement.js
+1. Grabs your localtime and displays it with an interval of 1 second (AM/PM) using momement.js
 1. Displays weather from openweather https://openweathermap.org/
 
 ## Usage

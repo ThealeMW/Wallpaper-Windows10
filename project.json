@@ -15,5 +15,6 @@
 	},
 	"title" : "Windows-10",
 	"type" : "web",
+	"preview" : "preview.png",
 	"version" : 0
 }

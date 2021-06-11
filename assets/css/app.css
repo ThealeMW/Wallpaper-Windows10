@@ -13,12 +13,12 @@ html {
   }
   .topleft {
     position: absolute;
-    left: 60px;
+    left: 80px;
     font-size: xx-large;
 }
 .topright {
     position: absolute;
-    right: 60px;
+    right: 80px;
     margin-top: 35px;
     font-size: xxx-large;
 }
